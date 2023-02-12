@@ -1,9 +1,9 @@
 [submodule "cli_toolkit"]
 	path = cli_toolkit
-	url = https://github.com/ninjapanzer/cli_toolkit
+	url = git@github.com:ninjapanzer/cli_toolkit
 [submodule "cli_framework"]
 	path = cli_framework
-	url = https://github.com/ninjapanzer/cli_framework
+	url = git@github.com:ninjapanzer/cli_framework.git
 [submodule "cli_survey"]
 	path = cli_survey
-	url = https://github.com/ninjapanzer/cli_survey_extension
+	url = git@github.com:ninjapanzer/cli_survey_extension
