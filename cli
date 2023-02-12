@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+ENV['BUNDLE_GEMFILE'] = './cli_framework/Gemfile'
+
+# require "bundler/setup"
+require_relative "cli_framework/lib/cli"
+
+Cli::Boot.start(ARGV)
+
